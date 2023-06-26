@@ -14,8 +14,8 @@ The flutter framework was used to create the mobile application. The implementat
 
 The microcontroller used in the project was the ATmega328P, whose code is found in `MicrocontrollerCode\src\main`. Electrical schematic and PCB template can be seen below. 
 
-![Capturar](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/8e2228ab-76c5-4b11-83df-07d3a5422c47)
-![Capturar2](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/338a0d3a-af44-44e3-a9bb-7c2f0acbf2f3)
+<img src="C:\Users\Fernando\Desktop\Capturar" width="300" height="200" />
+
 
 note: The source used for this project was 5V and 2A, to ensure power for the entire circuit.
 
@@ -28,11 +28,14 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 
 1. Before opening the application on the cell phone, pair it with the bluetooth module.
 2. With the application open, click on the bluetooth icon and locate the robotic arm module and press on it. Wait to connect and you can go back to the home screen.
+   
 ![WhatsApp Image 2023-06-26 at 20 34 30](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/bc9c2c44-7027-446a-b3d7-abc7ba55050b) ![WhatsApp Image 2023-06-26 at 20 34 30 (1)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/82ce6580-9ef5-48d3-99f8-ed8ef9a644dd) ![WhatsApp Image 2023-06-26 at 20 34 30 (2)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/2cc64b20-f681-4f6b-82f2-c6929cd47990)
 
 3. Connected to bluetooth, the initial interface features 4 sliders for manual control and 3 buttons with pre-programmed functions. Configure and calibrate the functions and angles for each motor in the files. 
 
 To change the supported angles it is necessary to change within the application code in `RoboticArmMobileApp\lib\Servo`.
+
 ![Capturar3](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/48424106-be40-4c6a-835a-20bb36aa5ad5)
 For the functions on the buttons change in the `MicrocontrollerCode\src\main` file.
+
 ![Capturar4](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/b59ee277-8055-486f-8952-131f70d7135f)

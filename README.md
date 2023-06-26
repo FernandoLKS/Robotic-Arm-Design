@@ -14,7 +14,7 @@ The flutter framework was used to create the mobile application. The implementat
 
 The microcontroller used in the project was the ATmega328P, whose code is found in `MicrocontrollerCode\src\main`. Electrical schematic and PCB template can be seen below. 
 
-<img src="C:/Users/Fernando/Desktop/Capturar" width="300" height="200" />
+<img src="C:/Users/Fernando/Desktop/Capturar.png" width="300" height="200" />
 
 
 note: The source used for this project was 5V and 2A, to ensure power for the entire circuit.

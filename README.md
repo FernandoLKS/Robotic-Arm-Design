@@ -44,10 +44,10 @@ To change the supported angles it is necessary to change within the application 
 
 <p align="center">
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/48424106-be40-4c6a-835a-20bb36aa5ad5"
-/>)
+/>
 
 For the functions on the buttons change in the `MicrocontrollerCode\src\main` file.
 
 <p align="center">
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/b59ee277-8055-486f-8952-131f70d7135f"
-/>)
+/>

@@ -31,22 +31,14 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 
 1. Before opening the application on the cell phone, pair it with the bluetooth module.
 2. With the application open, click on the bluetooth icon and locate the robotic arm module and press on it. Wait to connect and you can go back to the home screen.
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/3c1c3229-ff31-4038-a5e2-44fa35ace971/WhatsApp%20Image%202023-06-26%20at%2020.34.30.png" alt="Imagem 1" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/b5cff57e-beba-4a0b-8a4b-40104a58a8de/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(1).png" alt="Imagem 2" />
-      </td>
-      <td align="center">
-        <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/70a3f96a-2299-49fc-8d8e-3c4cbaaa04c5/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(2).png" alt="Imagem 3" />
-      </td>
-    </tr>
-  </table>
-</p>
 
+<p align="center">
+  <div>
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/3c1c3229-ff31-4038-a5e2-44fa35ace971/WhatsApp%20Image%202023-06-26%20at%2020.34.30.png" alt="Imagem 1" />
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/b5cff57e-beba-4a0b-8a4b-40104a58a8de/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(1).png" alt="Imagem 2" />
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/70a3f96a-2299-49fc-8d8e-3c4cbaaa04c5/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(2).png" alt="Imagem 3" />
+  </div>
+</p>
 
 3. Connected to bluetooth, the initial interface features 4 sliders for manual control and 3 buttons with pre-programmed functions. Configure and calibrate the functions and angles for each motor in the files. 
 

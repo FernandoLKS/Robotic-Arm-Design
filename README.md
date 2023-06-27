@@ -13,8 +13,9 @@ The flutter framework was used to create the mobile application. The implementat
 ## Microcontroller code and circuit
 
 The microcontroller used in the project was the ATmega328P, whose code is found in `MicrocontrollerCode\src\main`. Electrical schematic and PCB template can be seen below. 
+
 <p align="center">
-  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/6113f6c5-d720-48cb-b7bf-7d04be756f8a"/>
+  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/6113f6c5-d720-48cb-b7bf-7d04be756f8a"
 />
 <p align="center">
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/41cbd6b2-505e-4b58-9cbb-b90246b63d2d"
@@ -41,8 +42,12 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 
 To change the supported angles it is necessary to change within the application code in `RoboticArmMobileApp\lib\Servo`.
 
-![Capturar3](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/48424106-be40-4c6a-835a-20bb36aa5ad5)
+<p align="center">
+  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/48424106-be40-4c6a-835a-20bb36aa5ad5"
+/>)
 
 For the functions on the buttons change in the `MicrocontrollerCode\src\main` file.
 
-![Capturar4](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/b59ee277-8055-486f-8952-131f70d7135f)
+<p align="center">
+  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/b59ee277-8055-486f-8952-131f70d7135f"
+/>)

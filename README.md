@@ -32,7 +32,7 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 
 1. Before opening the application on the cell phone, pair it with the bluetooth module.
 2. With the application open, click on the bluetooth icon and locate the robotic arm module and press on it. Wait to connect and you can go back to the home screen.
-3. 
+
 <p align="center">
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/aacf7fd2-3a82-403e-b6f8-0c7c4bda952c"/>
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/adb19ff1-3173-46f3-8f62-70e1f5bc3616" />

@@ -14,7 +14,8 @@ The flutter framework was used to create the mobile application. The implementat
 
 The microcontroller used in the project was the ATmega328P, whose code is found in `MicrocontrollerCode\src\main`. Electrical schematic and PCB template can be seen below. 
 
-![Capturar](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/6a84c844-0b03-4c08-b87e-8c2e2097ed28)
+![Capturar](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/08c7d99d-65fa-4570-92b9-b0e8893cceab)
+
 
 note: The source used for this project was 5V and 2A, to ensure power for the entire circuit.
 

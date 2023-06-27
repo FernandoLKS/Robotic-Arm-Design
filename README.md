@@ -30,7 +30,8 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 1. Before opening the application on the cell phone, pair it with the bluetooth module.
 2. With the application open, click on the bluetooth icon and locate the robotic arm module and press on it. Wait to connect and you can go back to the home screen.
    
-![WhatsApp Image 2023-06-26 at 20 34 30](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/bc9c2c44-7027-446a-b3d7-abc7ba55050b) ![WhatsApp Image 2023-06-26 at 20 34 30 (1)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/82ce6580-9ef5-48d3-99f8-ed8ef9a644dd) ![WhatsApp Image 2023-06-26 at 20 34 30 (2)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/2cc64b20-f681-4f6b-82f2-c6929cd47990)
+![WhatsApp Image 2023-06-26 at 20 34 30](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/6b3347ba-318d-4540-9e4c-d3eb2d6b9c9a)
+
 
 3. Connected to bluetooth, the initial interface features 4 sliders for manual control and 3 buttons with pre-programmed functions. Configure and calibrate the functions and angles for each motor in the files. 
 

@@ -30,14 +30,14 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 1. Before opening the application on the cell phone, pair it with the bluetooth module.
 2. With the application open, click on the bluetooth icon and locate the robotic arm module and press on it. Wait to connect and you can go back to the home screen.
    
-![WhatsApp Image 2023-06-26 at 20 34 30](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/6b3347ba-318d-4540-9e4c-d3eb2d6b9c9a)
-
+![WhatsApp Image 2023-06-26 at 20 34 30](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/2685e4ea-b0ec-4374-8dac-866febbd16d4) | ![WhatsApp Image 2023-06-26 at 20 34 30 (1)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/cffae720-87cf-4c52-92c0-2dbb3dd350c0) | ![WhatsApp Image 2023-06-26 at 20 34 30 (2)](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/7dfeb7c2-e32c-4a89-8933-e962ca292aa3)
 
 3. Connected to bluetooth, the initial interface features 4 sliders for manual control and 3 buttons with pre-programmed functions. Configure and calibrate the functions and angles for each motor in the files. 
 
 To change the supported angles it is necessary to change within the application code in `RoboticArmMobileApp\lib\Servo`.
 
 ![Capturar3](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/48424106-be40-4c6a-835a-20bb36aa5ad5)
+
 For the functions on the buttons change in the `MicrocontrollerCode\src\main` file.
 
 ![Capturar4](https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/b59ee277-8055-486f-8952-131f70d7135f)

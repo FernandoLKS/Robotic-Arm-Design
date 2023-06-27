@@ -34,9 +34,8 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 3. 
 <p align="center">
   <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/aacf7fd2-3a82-403e-b6f8-0c7c4bda952c"/>
-  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/b5cff57e-beba-4a0b-8a4b-40104a58a8de/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(1).png" />
-  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/70a3f96a-2299-49fc-8d8e-3c4cbaaa04c5/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(2).png"
-/>
+  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/adb19ff1-3173-46f3-8f62-70e1f5bc3616" />
+  <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/assets/114883109/d5f1a376-5fb5-4b7d-9eea-e00faf2de2d5"/>
 
 3. Connected to bluetooth, the initial interface features 4 sliders for manual control and 3 buttons with pre-programmed functions. Configure and calibrate the functions and angles for each motor in the files. 
 

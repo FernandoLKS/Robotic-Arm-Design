@@ -34,9 +34,9 @@ note: The source used for this project was 5V and 2A, to ensure power for the en
 
 <p align="center">
   <div>
-    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/3c1c3229-ff31-4038-a5e2-44fa35ace971/WhatsApp%20Image%202023-06-26%20at%2020.34.30.png" alt="Imagem 1" />
-    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/b5cff57e-beba-4a0b-8a4b-40104a58a8de/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(1).png" alt="Imagem 2" />
-    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/70a3f96a-2299-49fc-8d8e-3c4cbaaa04c5/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(2).png" alt="Imagem 3" />
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/3c1c3229-ff31-4038-a5e2-44fa35ace971/WhatsApp%20Image%202023-06-26%20at%2020.34.30.png"/>
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/b5cff57e-beba-4a0b-8a4b-40104a58a8de/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(1).png"/>
+    <img src="https://github.com/FernandoLKS/Robotic-Arm-Design/raw/main/assets/114883109/70a3f96a-2299-49fc-8d8e-3c4cbaaa04c5/WhatsApp%20Image%202023-06-26%20at%2020.34.30%20(2).png"/>
   </div>
 </p>
 
